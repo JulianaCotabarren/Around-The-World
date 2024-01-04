@@ -49,6 +49,8 @@ To run the project locally follow the next steps:
 
 5. Open [http://localhost:3000](http://localhost:3000) to view it in the browser
 
+6. Login with _email: johndoe@email.com_ and _password: 12345678_
+
 ## Website Images
 
 ![Login](./src/assets/login.png)
