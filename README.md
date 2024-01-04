@@ -48,3 +48,13 @@ To run the project locally follow the next steps:
 4. Run the app in the development mode: `npm run dev`
 
 5. Open [http://localhost:3000](http://localhost:3000) to view it in the browser
+
+## Website Images
+
+![Login](./src/assets/login.png)
+![Home](./src/assets/home.png)
+![Bookings](./src/assets/bookings.png)
+![Cabins](./src/assets/cabins.png)
+![Users](./src/assets/users.png)
+![Settings](./src/assets/settings.png)
+![Account](./src/assets/account.png)
